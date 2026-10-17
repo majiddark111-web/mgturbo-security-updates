@@ -1,0 +1,8 @@
+Historical research indicators from ESET malware-ioc (BSD-2-Clause).
+Copyright, conditions and disclaimer: LICENSE.txt in this directory.
+Source revision: 705ead5a0a86fefae3c2390f91a339852384f438
+https://github.com/eset/malware-ioc/tree/705ead5a0a86fefae3c2390f91a339852384f438
+Files: aridspy/README.adoc; vajraspy/README.adoc (original texts included).
+28 SHA-1 indicators. Review date 2026-10-17 is not a threat publication/update date.
+This subset is not ESET's antivirus database. ESET does not endorse or sponsor MG Turbo.
+No automatic feed update or claim of comprehensive/current protection is provided.
