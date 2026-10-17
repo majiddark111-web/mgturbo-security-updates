@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "repository": "https://github.com/majiddark111-web/mgturbo-security-updates",
+  "algorithm": "SHA256withECDSA",
+  "curve": "secp256r1",
+  "keyIdSha256Spki": "07dbcf716554faf6de3269201ae1c4d2a29f3d3f916e6d2fa6edad8381964a85",
+  "publicKeySpkiBase64": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpPX9JaAqTHSvTcu/gJiO33NpurpRDa3MmKG52PG9Vx1fNtDYu2xywGSVFUimY560oJMIWeAK3m1TEQPfXep5Aw==",
+  "status": "not-activated"
+}
