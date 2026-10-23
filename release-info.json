@@ -1,11 +1,11 @@
 {
   "schema":2,
-  "version":1792254013657,
-  "issuedAt":1792254013,
-  "expiresAt":1792858813,
+  "version":1792778651772,
+  "issuedAt":1792778651,
+  "expiresAt":1793383451,
   "reviewedOn":"2026-10-17",
   "sha1Count":28,
-  "sha256":"b31e725c27b3807927ae545f287309cf59960fcb5f70382339b621fa526d2bf0",
+  "sha256":"ee8eef23b407e50a48d460f882cf397b2749dff0668d15c979b7e3d72cb491e5",
   "keyIdSha256Spki":"07dbcf716554faf6de3269201ae1c4d2a29f3d3f916e6d2fa6edad8381964a85",
   "file":"research-feed.bin",
   "status":"signed-not-activated"
